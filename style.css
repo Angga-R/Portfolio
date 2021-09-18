@@ -39,7 +39,6 @@ body {
   width: 90%;
   margin: auto;
   margin-top: 80px;
-  margin-bottom: 100px;
   vertical-align: middle;
 }
 
@@ -57,4 +56,42 @@ body {
 .my_foto {
   width: 500px;
   border-radius: 50%;
+}
+
+/* Project */
+.project {
+  width: 95%;
+  margin: auto;
+  margin-top: 300px;
+  margin-bottom: 50px;
+}
+
+.project h1 {
+  font-size: 50px;
+}
+
+.project-1 {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 100px;
+}
+
+.image-project-1 {
+  padding-left: 40px;
+  width: 500px;
+}
+
+.image-project-1 img {
+  width: 500px;
+  height: 600px;
+}
+
+.desc-project-1 {
+  font-size: 20px;
+  margin-right: 120px;
+}
+
+.desc-project-1 p {
+  margin-top: 50px;
+  margin-bottom: 40px;
 }
