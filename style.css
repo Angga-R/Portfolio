@@ -76,19 +76,14 @@ body {
   margin-top: 100px;
 }
 
-.image-project-1 {
-  padding-left: 40px;
-  width: 500px;
-}
-
 .image-project-1 img {
-  width: 500px;
-  height: 600px;
+  width: 700px;
+  height: 450px;
+  border: 2px solid black;
 }
 
 .desc-project-1 {
   font-size: 20px;
-  margin-right: 120px;
 }
 
 .desc-project-1 p {
