@@ -95,7 +95,6 @@ h1 {
   width: 95%;
   margin: auto;
   margin-top: 300px;
-  margin-bottom: 50px;
 }
 
 .about-me table {
@@ -114,4 +113,53 @@ h1 {
   text-align: center;
   margin-top: 30px;
   font-weight: 600;
+}
+
+/* Skill */
+.skill {
+  width: 95%;
+  margin: auto;
+  margin-top: 300px;
+  margin-bottom: 50px;
+}
+
+.skill table {
+  width: 95%;
+  margin-top: 70px;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.skill table .php {
+  width: 85%;
+  border-top: 7px solid black;
+}
+
+.skill table .java {
+  width: 60%;
+  border-top: 7px solid black;
+}
+
+.skill table .js {
+  width: 20%;
+  border-top: 7px solid black;
+}
+
+.skill table .mysql {
+  width: 62%;
+  border-top: 7px solid black;
+}
+
+.skill table .ci {
+  width: 70%;
+  border-top: 7px solid black;
+}
+
+.skill table .nodejs {
+  width: 10%;
+  border-top: 7px solid black;
+}
+
+.skill table tr .lang {
+  width: 250px;
 }
